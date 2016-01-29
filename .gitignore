@@ -1,0 +1,59 @@
+## JetBrains IDEs ##
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+/out/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+## SublimeText ##
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+sftp-config.json
+
+## Node.js ##
+*.log
+*.pid
+*.seed
+.grunt
+.lock-wscript
+build/Release
+coverage
+node_modules
+npm-debug.log*
+lib-cov
+logs
+pids
+
+## OSX ##
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Network Trash Folder
+Temporary Items
+
+### Thumbnails ###
+._*
+
+## Vim ##
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+.netrwhist
+*.un~
+*~
+Session.vim

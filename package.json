@@ -1,19 +1,28 @@
 {
   "name": "brettcase",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Title-cases a string using Brett Terpstra's \"titlecase\" API.",
-  "main": "index.js",
+  "main": "lib/brettcase.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/experience/brettcase.git"
+    "url": "git+ssh://git@github.com:monooso/brettcase.git"
   },
   "keywords": [
     "titlecase"
   ],
-  "author": "Stephen Lewis <stephen@vectormediagroup.com> (https://www.vectormediagroup.com)",
+  "author": "Stephen Lewis <stephen@experiencehq.net> (https://experiencehq.net)",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/experience/brettcase#readme"
+  "homepage": "https://github.com/monooso/brettcase#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "nock": "^7.0.2",
+    "should": "^8.2.1"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.69.0"
+  }
 }
