@@ -1,10 +1,10 @@
 # Brettcase #
+
+[![Build Status](https://travis-ci.org/monooso/brettcase.svg?branch=master)](https://travis-ci.org/monooso/brettcase)
+
 A node.js helper library for accessing Brett Terpstra's [Titlecase API][api]. Just a bit of fun.
 
 [api]: http://brettterpstra.com/titlecase/test
-
-[![NPM](https://nodei.co/npm/brettcase.png)](https://nodei.co/npm/brettcase/)
-[![Build Status](https://travis-ci.org/monooso/brettcase.svg?branch=master)](https://travis-ci.org/monooso/brettcase)
 
 ## Getting Started ##
 Brettcase is available as an npm package. Install the latest version with:
