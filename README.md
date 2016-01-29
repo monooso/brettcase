@@ -20,9 +20,5 @@ The Brettcase function returns a promise. Here's an example of how to use it.
 
 ```js
 var brettcase = require('brettcase');
-
-brettcase('of mice and men')
-  .then(function (data) {
-    console.log(data);    // Logs out "Of Mice and Men"
-  });
+brettcase('of mice and men').then(console.log);  // Logs out "Of Mice and Men"
 ```
