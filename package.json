@@ -1,0 +1,19 @@
+{
+  "name": "brettcase",
+  "version": "0.0.1",
+  "description": "Title-cases a string using Brett Terpstra's \"titlecase\" API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/experience/brettcase.git"
+  },
+  "keywords": [
+    "titlecase"
+  ],
+  "author": "Stephen Lewis <stephen@vectormediagroup.com> (https://www.vectormediagroup.com)",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/experience/brettcase#readme"
+}
