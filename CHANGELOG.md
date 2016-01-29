@@ -15,4 +15,4 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 [api]: http://brettterpstra.com/titlecase/test
 
-[Unreleased]: https://github.com/monooso/brettcase/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/monooso/brettcase/compare/v1.0.0...HEAD
